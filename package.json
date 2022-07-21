@@ -1,0 +1,14 @@
+{
+  "name": "bot-template-v13",
+  "version": "1.0.0",
+  "description": "Bot template for DJS v13",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kacp3r",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "13.9"
+  }
+}
